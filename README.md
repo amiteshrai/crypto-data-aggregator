@@ -1,3 +1,3 @@
-# Crypto Data Applications
+# Crypto Data Aggregator
 
-Sample applications built using Python and APIs
+Sample applications built using Python and APIs to collect relevant data about crypto currencies and exchanges.
